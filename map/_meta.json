@@ -1,0 +1,5729 @@
+{
+  "AD": {
+    "iso": "AD",
+    "name_en": "Andorra",
+    "centroid": {
+      "lat": 42.54,
+      "lng": 1.56
+    },
+    "bbox": [
+      1.41,
+      42.43,
+      1.77,
+      42.65
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 24353
+  },
+  "AE": {
+    "iso": "AE",
+    "name_en": "United Arab Emirates",
+    "centroid": {
+      "lat": 23.9,
+      "lng": 54.3
+    },
+    "bbox": [
+      51.57,
+      22.62,
+      56.38,
+      26.07
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 23350
+  },
+  "AF": {
+    "iso": "AF",
+    "name_en": "Afghanistan",
+    "centroid": {
+      "lat": 33.82,
+      "lng": 65.93
+    },
+    "bbox": [
+      60.49,
+      29.39,
+      74.89,
+      38.47
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 24089
+  },
+  "AG": {
+    "iso": "AG",
+    "name_en": "Antigua and Barbuda",
+    "centroid": {
+      "lat": 17.07,
+      "lng": -61.79
+    },
+    "bbox": [
+      -61.89,
+      16.99,
+      -61.67,
+      17.17
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 17075
+  },
+  "AI": {
+    "iso": "AI",
+    "name_en": "Anguilla",
+    "centroid": {
+      "lat": 18.22,
+      "lng": -63.06
+    },
+    "bbox": [
+      -63.17,
+      18.17,
+      -62.97,
+      18.28
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 18135
+  },
+  "AL": {
+    "iso": "AL",
+    "name_en": "Albania",
+    "centroid": {
+      "lat": 41.13,
+      "lng": 20.06
+    },
+    "bbox": [
+      19.27,
+      39.64,
+      21.04,
+      42.65
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 27332
+  },
+  "AM": {
+    "iso": "AM",
+    "name_en": "Armenia",
+    "centroid": {
+      "lat": 40.29,
+      "lng": 44.94
+    },
+    "bbox": [
+      43.44,
+      38.86,
+      46.6,
+      41.29
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 24489
+  },
+  "AO": {
+    "iso": "AO",
+    "name_en": "Angola",
+    "centroid": {
+      "lat": -12.31,
+      "lng": 17.56
+    },
+    "bbox": [
+      11.74,
+      -18.03,
+      24.06,
+      -5.84
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 19269
+  },
+  "AQ": {
+    "iso": "AQ",
+    "name_en": "Antarctica",
+    "centroid": {
+      "lat": -84.68,
+      "lng": 83.04
+    },
+    "bbox": [
+      -180,
+      -90,
+      180,
+      -63.21
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 22607
+  },
+  "AR": {
+    "iso": "AR",
+    "name_en": "Argentina",
+    "centroid": {
+      "lat": -34.53,
+      "lng": -64.74
+    },
+    "bbox": [
+      -73.57,
+      -52.39,
+      -53.66,
+      -21.79
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 19806
+  },
+  "AS": {
+    "iso": "AS",
+    "name_en": "American Samoa",
+    "centroid": {
+      "lat": -14.3,
+      "lng": -170.72
+    },
+    "bbox": [
+      -170.83,
+      -14.37,
+      -170.57,
+      -14.25
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 10135
+  },
+  "AT": {
+    "iso": "AT",
+    "name_en": "Austria",
+    "centroid": {
+      "lat": 47.59,
+      "lng": 14.11
+    },
+    "bbox": [
+      9.52,
+      46.38,
+      17.15,
+      49.01
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 26752
+  },
+  "AU": {
+    "iso": "AU",
+    "name_en": "Australia",
+    "centroid": {
+      "lat": -25.63,
+      "lng": 134.21
+    },
+    "bbox": [
+      113.16,
+      -39.14,
+      153.63,
+      -10.69
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 17656
+  },
+  "AW": {
+    "iso": "AW",
+    "name_en": "Aruba",
+    "centroid": {
+      "lat": 12.52,
+      "lng": -69.97
+    },
+    "bbox": [
+      -70.06,
+      12.42,
+      -69.88,
+      12.63
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 18428
+  },
+  "AX": {
+    "iso": "AX",
+    "name_en": "Åland",
+    "centroid": {
+      "lat": 60.23,
+      "lng": 19.94
+    },
+    "bbox": [
+      19.65,
+      60.05,
+      20.28,
+      60.41
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 32577
+  },
+  "AZ": {
+    "iso": "AZ",
+    "name_en": "Azerbaijan",
+    "centroid": {
+      "lat": 40.34,
+      "lng": 47.67
+    },
+    "bbox": [
+      45,
+      38.39,
+      50.39,
+      41.89
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 22304
+  },
+  "BA": {
+    "iso": "BA",
+    "name_en": "Bosnia and Herzegovina",
+    "centroid": {
+      "lat": 44.17,
+      "lng": 17.78
+    },
+    "bbox": [
+      15.72,
+      42.56,
+      19.62,
+      45.28
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 30377
+  },
+  "BB": {
+    "iso": "BB",
+    "name_en": "Barbados",
+    "centroid": {
+      "lat": 13.18,
+      "lng": -59.56
+    },
+    "bbox": [
+      -59.65,
+      13.05,
+      -59.43,
+      13.34
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 17044
+  },
+  "BD": {
+    "iso": "BD",
+    "name_en": "Bangladesh",
+    "centroid": {
+      "lat": 23.87,
+      "lng": 90.24
+    },
+    "bbox": [
+      88.02,
+      20.74,
+      92.64,
+      26.62
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 26439
+  },
+  "BE": {
+    "iso": "BE",
+    "name_en": "Belgium",
+    "centroid": {
+      "lat": 50.64,
+      "lng": 4.65
+    },
+    "bbox": [
+      2.52,
+      49.5,
+      6.37,
+      51.5
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 23190
+  },
+  "BF": {
+    "iso": "BF",
+    "name_en": "Burkina Faso",
+    "centroid": {
+      "lat": 12.27,
+      "lng": -1.76
+    },
+    "bbox": [
+      -5.52,
+      9.39,
+      2.39,
+      15.08
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 22404
+  },
+  "BG": {
+    "iso": "BG",
+    "name_en": "Bulgaria",
+    "centroid": {
+      "lat": 42.77,
+      "lng": 25.21
+    },
+    "bbox": [
+      22.35,
+      41.24,
+      28.6,
+      44.23
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 26494
+  },
+  "BH": {
+    "iso": "BH",
+    "name_en": "Bahrain",
+    "centroid": {
+      "lat": 26.05,
+      "lng": 50.55
+    },
+    "bbox": [
+      50.45,
+      25.79,
+      50.65,
+      26.24
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 24925
+  },
+  "BI": {
+    "iso": "BI",
+    "name_en": "Burundi",
+    "centroid": {
+      "lat": -3.36,
+      "lng": 29.88
+    },
+    "bbox": [
+      28.99,
+      -4.46,
+      30.83,
+      -2.3
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 17648
+  },
+  "BJ": {
+    "iso": "BJ",
+    "name_en": "Benin",
+    "centroid": {
+      "lat": 9.64,
+      "lng": 2.33
+    },
+    "bbox": [
+      0.76,
+      6.21,
+      3.84,
+      12.4
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 22571
+  },
+  "BL": {
+    "iso": "BL",
+    "name_en": "Saint Barthélemy",
+    "centroid": {
+      "lat": 17.91,
+      "lng": -62.83
+    },
+    "bbox": [
+      -62.87,
+      17.88,
+      -62.79,
+      17.93
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 17581
+  },
+  "BM": {
+    "iso": "BM",
+    "name_en": "Bermuda",
+    "centroid": {
+      "lat": 32.31,
+      "lng": -64.76
+    },
+    "bbox": [
+      -64.89,
+      32.25,
+      -64.65,
+      32.39
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 14298
+  },
+  "BN": {
+    "iso": "BN",
+    "name_en": "Brunei",
+    "centroid": {
+      "lat": 4.49,
+      "lng": 114.6
+    },
+    "bbox": [
+      114,
+      4.02,
+      115.1,
+      5.06
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 16628
+  },
+  "BO": {
+    "iso": "BO",
+    "name_en": "Bolivia",
+    "centroid": {
+      "lat": -16.68,
+      "lng": -64.7
+    },
+    "bbox": [
+      -69.67,
+      -22.9,
+      -57.47,
+      -9.68
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 18025
+  },
+  "BQ": {
+    "iso": "BQ",
+    "name_en": "Caribbean Netherlands",
+    "centroid": {
+      "lat": 12.19,
+      "lng": -68.29
+    },
+    "bbox": [
+      -68.42,
+      12.02,
+      -68.19,
+      12.31
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 18024
+  },
+  "BR": {
+    "iso": "BR",
+    "name_en": "Brazil",
+    "centroid": {
+      "lat": -10.69,
+      "lng": -53.23
+    },
+    "bbox": [
+      -74.02,
+      -33.74,
+      -34.79,
+      5.27
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 22160
+  },
+  "BS": {
+    "iso": "BS",
+    "name_en": "The Bahamas",
+    "centroid": {
+      "lat": 24.7,
+      "lng": -78.04
+    },
+    "bbox": [
+      -78.44,
+      24.27,
+      -77.72,
+      25.21
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 22949
+  },
+  "BT": {
+    "iso": "BT",
+    "name_en": "Bhutan",
+    "centroid": {
+      "lat": 27.42,
+      "lng": 90.41
+    },
+    "bbox": [
+      88.73,
+      26.7,
+      92.09,
+      28.36
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 21132
+  },
+  "BV": {
+    "iso": "BV",
+    "name_en": "Bouvet Island",
+    "centroid": {
+      "lat": -54.42,
+      "lng": 3.41
+    },
+    "bbox": [
+      3.35,
+      -54.46,
+      3.49,
+      -54.38
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 12943
+  },
+  "BW": {
+    "iso": "BW",
+    "name_en": "Botswana",
+    "centroid": {
+      "lat": -22.17,
+      "lng": 23.81
+    },
+    "bbox": [
+      19.98,
+      -26.89,
+      29.35,
+      -17.78
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 19622
+  },
+  "BY": {
+    "iso": "BY",
+    "name_en": "Belarus",
+    "centroid": {
+      "lat": 53.52,
+      "lng": 28.02
+    },
+    "bbox": [
+      23.17,
+      51.24,
+      32.72,
+      56.16
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 20608
+  },
+  "BZ": {
+    "iso": "BZ",
+    "name_en": "Belize",
+    "centroid": {
+      "lat": 17.2,
+      "lng": -88.7
+    },
+    "bbox": [
+      -89.24,
+      15.88,
+      -88.08,
+      18.49
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 17618
+  },
+  "CA": {
+    "iso": "CA",
+    "name_en": "Canada",
+    "centroid": {
+      "lat": 58.59,
+      "lng": -98.99
+    },
+    "bbox": [
+      -141.01,
+      41.67,
+      -55.62,
+      72
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 35354
+  },
+  "CC": {
+    "iso": "CC",
+    "name_en": "Cocos",
+    "centroid": {
+      "lat": -12.17,
+      "lng": 96.84
+    },
+    "bbox": [
+      96.82,
+      -12.2,
+      96.87,
+      -12.13
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 14526
+  },
+  "CD": {
+    "iso": "CD",
+    "name_en": "Democratic Republic of the Congo",
+    "centroid": {
+      "lat": -2.87,
+      "lng": 23.64
+    },
+    "bbox": [
+      12.21,
+      -13.46,
+      31.28,
+      5.38
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 27321
+  },
+  "CF": {
+    "iso": "CF",
+    "name_en": "Central African Republic",
+    "centroid": {
+      "lat": 6.57,
+      "lng": 20.46
+    },
+    "bbox": [
+      14.39,
+      2.24,
+      27.44,
+      11
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 21830
+  },
+  "CG": {
+    "iso": "CG",
+    "name_en": "Republic of the Congo",
+    "centroid": {
+      "lat": -0.84,
+      "lng": 15.22
+    },
+    "bbox": [
+      11.11,
+      -5.02,
+      18.64,
+      3.71
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 21327
+  },
+  "CH": {
+    "iso": "CH",
+    "name_en": "Switzerland",
+    "centroid": {
+      "lat": 46.8,
+      "lng": 8.21
+    },
+    "bbox": [
+      5.95,
+      45.82,
+      10.47,
+      47.8
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 22752
+  },
+  "CI": {
+    "iso": "CI",
+    "name_en": "Ivory Coast",
+    "centroid": {
+      "lat": 7.63,
+      "lng": -5.57
+    },
+    "bbox": [
+      -8.62,
+      4.34,
+      -2.51,
+      10.73
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 23320
+  },
+  "CK": {
+    "iso": "CK",
+    "name_en": "Cook Islands",
+    "centroid": {
+      "lat": -21.22,
+      "lng": -159.79
+    },
+    "bbox": [
+      -159.85,
+      -21.25,
+      -159.74,
+      -21.19
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 10257
+  },
+  "CL": {
+    "iso": "CL",
+    "name_en": "Chile",
+    "centroid": {
+      "lat": -34.1,
+      "lng": -70.9
+    },
+    "bbox": [
+      -75.71,
+      -53.89,
+      -67.01,
+      -17.51
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 17527
+  },
+  "CM": {
+    "iso": "CM",
+    "name_en": "Cameroon",
+    "centroid": {
+      "lat": 5.68,
+      "lng": 12.73
+    },
+    "bbox": [
+      8.51,
+      1.65,
+      16.21,
+      13.08
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 25615
+  },
+  "CN": {
+    "iso": "CN",
+    "name_en": "People's Republic of China",
+    "centroid": {
+      "lat": 36.76,
+      "lng": 103.36
+    },
+    "bbox": [
+      73.6,
+      20.24,
+      134.77,
+      53.57
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 36781
+  },
+  "CO": {
+    "iso": "CO",
+    "name_en": "Colombia",
+    "centroid": {
+      "lat": 3.9,
+      "lng": -73.08
+    },
+    "bbox": [
+      -79.02,
+      -4.24,
+      -66.88,
+      12.47
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 24891
+  },
+  "CR": {
+    "iso": "CR",
+    "name_en": "Costa Rica",
+    "centroid": {
+      "lat": 9.97,
+      "lng": -84.19
+    },
+    "bbox": [
+      -85.95,
+      8.03,
+      -82.56,
+      11.21
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 18117
+  },
+  "CU": {
+    "iso": "CU",
+    "name_en": "Cuba",
+    "centroid": {
+      "lat": 21.63,
+      "lng": -78.93
+    },
+    "bbox": [
+      -84.95,
+      19.83,
+      -74.13,
+      23.21
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 23277
+  },
+  "CV": {
+    "iso": "CV",
+    "name_en": "Cape Verde",
+    "centroid": {
+      "lat": 15.08,
+      "lng": -23.64
+    },
+    "bbox": [
+      -23.79,
+      14.91,
+      -23.44,
+      15.33
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 16973
+  },
+  "CW": {
+    "iso": "CW",
+    "name_en": "Curaçao",
+    "centroid": {
+      "lat": 12.19,
+      "lng": -68.97
+    },
+    "bbox": [
+      -69.17,
+      12.04,
+      -68.74,
+      12.39
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 18626
+  },
+  "CX": {
+    "iso": "CX",
+    "name_en": "Christmas Island",
+    "centroid": {
+      "lat": -10.49,
+      "lng": 105.66
+    },
+    "bbox": [
+      105.58,
+      -10.57,
+      105.71,
+      -10.43
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 13254
+  },
+  "CY": {
+    "iso": "CY",
+    "name_en": "Cyprus",
+    "centroid": {
+      "lat": 34.91,
+      "lng": 32.95
+    },
+    "bbox": [
+      32.27,
+      34.63,
+      33.7,
+      35.19
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 19906
+  },
+  "CZ": {
+    "iso": "CZ",
+    "name_en": "Czech Republic",
+    "centroid": {
+      "lat": 49.74,
+      "lng": 15.32
+    },
+    "bbox": [
+      12.08,
+      48.56,
+      18.84,
+      51.04
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 22568
+  },
+  "DE": {
+    "iso": "DE",
+    "name_en": "Germany",
+    "centroid": {
+      "lat": 51.03,
+      "lng": 10.35
+    },
+    "bbox": [
+      5.85,
+      47.27,
+      15.02,
+      54.91
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 31918
+  },
+  "DJ": {
+    "iso": "DJ",
+    "name_en": "Djibouti",
+    "centroid": {
+      "lat": 11.75,
+      "lng": 42.57
+    },
+    "bbox": [
+      41.75,
+      10.93,
+      43.42,
+      12.71
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 20517
+  },
+  "DK": {
+    "iso": "DK",
+    "name_en": "Denmark",
+    "centroid": {
+      "lat": 56.22,
+      "lng": 9.37
+    },
+    "bbox": [
+      8.09,
+      54.8,
+      10.96,
+      57.75
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 32838
+  },
+  "DM": {
+    "iso": "DM",
+    "name_en": "Dominica",
+    "centroid": {
+      "lat": 15.44,
+      "lng": -61.36
+    },
+    "bbox": [
+      -61.49,
+      15.2,
+      -61.25,
+      15.63
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 17173
+  },
+  "DO": {
+    "iso": "DO",
+    "name_en": "Dominican Republic",
+    "centroid": {
+      "lat": 18.9,
+      "lng": -70.5
+    },
+    "bbox": [
+      -72.01,
+      17.6,
+      -68.33,
+      19.94
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 17167
+  },
+  "DZ": {
+    "iso": "DZ",
+    "name_en": "Algeria",
+    "centroid": {
+      "lat": 28.04,
+      "lng": 2.67
+    },
+    "bbox": [
+      -8.68,
+      18.98,
+      11.97,
+      37.09
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 24614
+  },
+  "EC": {
+    "iso": "EC",
+    "name_en": "Ecuador",
+    "centroid": {
+      "lat": -1.45,
+      "lng": -78.39
+    },
+    "bbox": [
+      -81.01,
+      -5.01,
+      -75.23,
+      1.43
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 15988
+  },
+  "EE": {
+    "iso": "EE",
+    "name_en": "Estonia",
+    "centroid": {
+      "lat": 58.68,
+      "lng": 25.84
+    },
+    "bbox": [
+      23.41,
+      57.52,
+      28.19,
+      59.67
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 24105
+  },
+  "EG": {
+    "iso": "EG",
+    "name_en": "Egypt",
+    "centroid": {
+      "lat": 26.46,
+      "lng": 29.88
+    },
+    "bbox": [
+      24.69,
+      21.99,
+      36.9,
+      31.66
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 21567
+  },
+  "EH": {
+    "iso": "EH",
+    "name_en": "Western Sahara",
+    "centroid": {
+      "lat": 24.21,
+      "lng": -12.27
+    },
+    "bbox": [
+      -17.1,
+      20.77,
+      -8.68,
+      27.66
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 19827
+  },
+  "ER": {
+    "iso": "ER",
+    "name_en": "Eritrea",
+    "centroid": {
+      "lat": 15.35,
+      "lng": 38.86
+    },
+    "bbox": [
+      36.42,
+      12.36,
+      43.12,
+      18
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 22234
+  },
+  "ES": {
+    "iso": "ES",
+    "name_en": "Spain",
+    "centroid": {
+      "lat": 40.36,
+      "lng": -3.57
+    },
+    "bbox": [
+      -9.29,
+      36.01,
+      3.32,
+      43.79
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 22738
+  },
+  "ET": {
+    "iso": "ET",
+    "name_en": "Ethiopia",
+    "centroid": {
+      "lat": 8.61,
+      "lng": 39.61
+    },
+    "bbox": [
+      32.99,
+      3.4,
+      47.98,
+      14.88
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 24924
+  },
+  "FI": {
+    "iso": "FI",
+    "name_en": "Finland",
+    "centroid": {
+      "lat": 64.27,
+      "lng": 26.21
+    },
+    "bbox": [
+      20.62,
+      59.81,
+      31.57,
+      70.08
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 36159
+  },
+  "FJ": {
+    "iso": "FJ",
+    "name_en": "Fiji",
+    "centroid": {
+      "lat": -17.82,
+      "lng": 177.98
+    },
+    "bbox": [
+      177.25,
+      -18.27,
+      178.71,
+      -17.3
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 13184
+  },
+  "FK": {
+    "iso": "FK",
+    "name_en": "Falkland Islands",
+    "centroid": {
+      "lat": -51.73,
+      "lng": -58.75
+    },
+    "bbox": [
+      -59.72,
+      -52.34,
+      -57.73,
+      -51.25
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 20933
+  },
+  "FM": {
+    "iso": "FM",
+    "name_en": "Federated States of Micronesia",
+    "centroid": {
+      "lat": 6.88,
+      "lng": 158.23
+    },
+    "bbox": [
+      158.13,
+      6.79,
+      158.34,
+      6.98
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 12200
+  },
+  "FO": {
+    "iso": "FO",
+    "name_en": "Faroe Islands",
+    "centroid": {
+      "lat": 62.14,
+      "lng": -6.99
+    },
+    "bbox": [
+      -7.24,
+      61.94,
+      -6.7,
+      62.31
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 22463
+  },
+  "FR": {
+    "iso": "FR",
+    "name_en": "France",
+    "centroid": {
+      "lat": 46.57,
+      "lng": 2.46
+    },
+    "bbox": [
+      -4.78,
+      42.33,
+      8.2,
+      51.09
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 28802
+  },
+  "GA": {
+    "iso": "GA",
+    "name_en": "Gabon",
+    "centroid": {
+      "lat": -0.59,
+      "lng": 11.79
+    },
+    "bbox": [
+      8.7,
+      -3.94,
+      14.5,
+      2.32
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 22390
+  },
+  "GB": {
+    "iso": "GB",
+    "name_en": "United Kingdom",
+    "centroid": {
+      "lat": 53.84,
+      "lng": -2.42
+    },
+    "bbox": [
+      -6.24,
+      49.96,
+      1.77,
+      58.68
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 32118
+  },
+  "GD": {
+    "iso": "GD",
+    "name_en": "Grenada",
+    "centroid": {
+      "lat": 12.12,
+      "lng": -61.68
+    },
+    "bbox": [
+      -61.79,
+      12,
+      -61.6,
+      12.24
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 19319
+  },
+  "GE": {
+    "iso": "GE",
+    "name_en": "Georgia",
+    "centroid": {
+      "lat": 42.17,
+      "lng": 43.52
+    },
+    "bbox": [
+      39.99,
+      41.04,
+      46.69,
+      43.58
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 22633
+  },
+  "GF": {
+    "iso": "GF",
+    "name_en": "French Guiana",
+    "centroid": {
+      "lat": 3.92,
+      "lng": -53.24
+    },
+    "bbox": [
+      -54.62,
+      2.11,
+      -51.65,
+      5.74
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 18681
+  },
+  "GG": {
+    "iso": "GG",
+    "name_en": "Guernsey",
+    "centroid": {
+      "lat": 49.46,
+      "lng": -2.58
+    },
+    "bbox": [
+      -2.67,
+      49.43,
+      -2.5,
+      49.52
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 27039
+  },
+  "GH": {
+    "iso": "GH",
+    "name_en": "Ghana",
+    "centroid": {
+      "lat": 7.95,
+      "lng": -1.22
+    },
+    "bbox": [
+      -3.26,
+      4.74,
+      1.19,
+      11.16
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 22724
+  },
+  "GI": {
+    "iso": "GI",
+    "name_en": "Gibraltar",
+    "centroid": {
+      "lat": 36.13,
+      "lng": -5.35
+    },
+    "bbox": [
+      -5.36,
+      36.11,
+      -5.34,
+      36.14
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 23490
+  },
+  "GL": {
+    "iso": "GL",
+    "name_en": "Greenland",
+    "centroid": {
+      "lat": 73.15,
+      "lng": -41.84
+    },
+    "bbox": [
+      -73.06,
+      59.99,
+      -11.38,
+      83.63
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 29298
+  },
+  "GM": {
+    "iso": "GM",
+    "name_en": "The Gambia",
+    "centroid": {
+      "lat": 13.45,
+      "lng": -15.4
+    },
+    "bbox": [
+      -16.83,
+      13.07,
+      -13.82,
+      13.82
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 20904
+  },
+  "GN": {
+    "iso": "GN",
+    "name_en": "Guinea",
+    "centroid": {
+      "lat": 10.44,
+      "lng": -10.94
+    },
+    "bbox": [
+      -15.08,
+      7.19,
+      -7.66,
+      12.67
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 27300
+  },
+  "GP": {
+    "iso": "GP",
+    "name_en": "Guadeloupe",
+    "centroid": {
+      "lat": 16.17,
+      "lng": -61.67
+    },
+    "bbox": [
+      -61.8,
+      15.95,
+      -61.55,
+      16.37
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 17335
+  },
+  "GQ": {
+    "iso": "GQ",
+    "name_en": "Equatorial Guinea",
+    "centroid": {
+      "lat": 1.57,
+      "lng": 10.47
+    },
+    "bbox": [
+      9.35,
+      0.92,
+      11.34,
+      2.34
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 14795
+  },
+  "GR": {
+    "iso": "GR",
+    "name_en": "Greece",
+    "centroid": {
+      "lat": 39.46,
+      "lng": 22.56
+    },
+    "bbox": [
+      20,
+      36.39,
+      26.64,
+      41.75
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 39213
+  },
+  "GS": {
+    "iso": "GS",
+    "name_en": "South Georgia and the South Sandwich Islands",
+    "centroid": {
+      "lat": -54.37,
+      "lng": -36.69
+    },
+    "bbox": [
+      -38.03,
+      -54.89,
+      -35.78,
+      -53.97
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 15314
+  },
+  "GT": {
+    "iso": "GT",
+    "name_en": "Guatemala",
+    "centroid": {
+      "lat": 15.69,
+      "lng": -90.36
+    },
+    "bbox": [
+      -92.25,
+      13.73,
+      -88.22,
+      17.82
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 19081
+  },
+  "GU": {
+    "iso": "GU",
+    "name_en": "Guam",
+    "centroid": {
+      "lat": 13.44,
+      "lng": 144.77
+    },
+    "bbox": [
+      144.62,
+      13.24,
+      144.95,
+      13.65
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 12851
+  },
+  "GW": {
+    "iso": "GW",
+    "name_en": "Guinea-Bissau",
+    "centroid": {
+      "lat": 12.06,
+      "lng": -14.93
+    },
+    "bbox": [
+      -16.73,
+      10.93,
+      -13.66,
+      12.68
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 26923
+  },
+  "GY": {
+    "iso": "GY",
+    "name_en": "Guyana",
+    "centroid": {
+      "lat": 4.79,
+      "lng": -58.98
+    },
+    "bbox": [
+      -61.4,
+      1.19,
+      -56.48,
+      8.56
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 19560
+  },
+  "HK": {
+    "iso": "HK",
+    "name_en": "Hong Kong",
+    "centroid": {
+      "lat": 22.42,
+      "lng": 114.16
+    },
+    "bbox": [
+      113.9,
+      22.26,
+      114.4,
+      22.56
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 21384
+  },
+  "HM": {
+    "iso": "HM",
+    "name_en": "Heard Island and McDonald Islands",
+    "centroid": {
+      "lat": -53.09,
+      "lng": 73.51
+    },
+    "bbox": [
+      73.24,
+      -53.19,
+      73.81,
+      -52.96
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 12545
+  },
+  "HN": {
+    "iso": "HN",
+    "name_en": "Honduras",
+    "centroid": {
+      "lat": 14.82,
+      "lng": -86.63
+    },
+    "bbox": [
+      -89.36,
+      12.98,
+      -83.13,
+      16.03
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 19706
+  },
+  "HR": {
+    "iso": "HR",
+    "name_en": "Croatia",
+    "centroid": {
+      "lat": 45.15,
+      "lng": 16.41
+    },
+    "bbox": [
+      13.5,
+      42.94,
+      19.41,
+      46.55
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 30581
+  },
+  "HT": {
+    "iso": "HT",
+    "name_en": "Haiti",
+    "centroid": {
+      "lat": 18.93,
+      "lng": -72.68
+    },
+    "bbox": [
+      -74.49,
+      18.03,
+      -71.64,
+      19.95
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 18333
+  },
+  "HU": {
+    "iso": "HU",
+    "name_en": "Hungary",
+    "centroid": {
+      "lat": 47.17,
+      "lng": 19.38
+    },
+    "bbox": [
+      16.09,
+      45.74,
+      22.88,
+      48.57
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 25671
+  },
+  "ID": {
+    "iso": "ID",
+    "name_en": "Indonesia",
+    "centroid": {
+      "lat": -0.19,
+      "lng": 114.02
+    },
+    "bbox": [
+      108.86,
+      -4.18,
+      119.01,
+      4.4
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 29955
+  },
+  "IE": {
+    "iso": "IE",
+    "name_en": "Ireland",
+    "centroid": {
+      "lat": 53.16,
+      "lng": -8.15
+    },
+    "bbox": [
+      -10.48,
+      51.45,
+      -5.99,
+      55.39
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 27049
+  },
+  "IL": {
+    "iso": "IL",
+    "name_en": "Israel",
+    "centroid": {
+      "lat": 31.44,
+      "lng": 34.99
+    },
+    "bbox": [
+      34.25,
+      29.49,
+      35.89,
+      33.41
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 23895
+  },
+  "IM": {
+    "iso": "IM",
+    "name_en": "Isle of Man",
+    "centroid": {
+      "lat": 54.23,
+      "lng": -4.53
+    },
+    "bbox": [
+      -4.79,
+      54.06,
+      -4.31,
+      54.42
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 32835
+  },
+  "IN": {
+    "iso": "IN",
+    "name_en": "India",
+    "centroid": {
+      "lat": 22.8,
+      "lng": 79.53
+    },
+    "bbox": [
+      68.14,
+      8.08,
+      97.36,
+      35.5
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 35654
+  },
+  "IO": {
+    "iso": "IO",
+    "name_en": "British Indian Ocean Territory",
+    "centroid": {
+      "lat": -7.35,
+      "lng": 72.43
+    },
+    "bbox": [
+      72.36,
+      -7.43,
+      72.48,
+      -7.27
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 15451
+  },
+  "IQ": {
+    "iso": "IQ",
+    "name_en": "Iraq",
+    "centroid": {
+      "lat": 33.01,
+      "lng": 43.78
+    },
+    "bbox": [
+      38.77,
+      29.06,
+      48.56,
+      37.38
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 24668
+  },
+  "IR": {
+    "iso": "IR",
+    "name_en": "Iran",
+    "centroid": {
+      "lat": 32.53,
+      "lng": 54.44
+    },
+    "bbox": [
+      44.01,
+      25.06,
+      63.32,
+      39.77
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 32663
+  },
+  "IS": {
+    "iso": "IS",
+    "name_en": "Iceland",
+    "centroid": {
+      "lat": 65,
+      "lng": -18.6
+    },
+    "bbox": [
+      -24.54,
+      63.4,
+      -13.5,
+      66.54
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 21273
+  },
+  "IT": {
+    "iso": "IT",
+    "name_en": "Italy",
+    "centroid": {
+      "lat": 43.48,
+      "lng": 12.31
+    },
+    "bbox": [
+      6.6,
+      37.92,
+      18.52,
+      47.09
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 35978
+  },
+  "JE": {
+    "iso": "JE",
+    "name_en": "Jersey",
+    "centroid": {
+      "lat": 49.22,
+      "lng": -2.13
+    },
+    "bbox": [
+      -2.24,
+      49.17,
+      -2.01,
+      49.27
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 27366
+  },
+  "JM": {
+    "iso": "JM",
+    "name_en": "Jamaica",
+    "centroid": {
+      "lat": 18.16,
+      "lng": -77.32
+    },
+    "bbox": [
+      -78.37,
+      17.7,
+      -76.19,
+      18.53
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 13607
+  },
+  "JO": {
+    "iso": "JO",
+    "name_en": "Jordan",
+    "centroid": {
+      "lat": 31.24,
+      "lng": 36.76
+    },
+    "bbox": [
+      34.95,
+      29.19,
+      39.29,
+      33.37
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 22066
+  },
+  "JP": {
+    "iso": "JP",
+    "name_en": "Japan",
+    "centroid": {
+      "lat": 36.63,
+      "lng": 137.87
+    },
+    "bbox": [
+      130.86,
+      33.43,
+      142.07,
+      41.55
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 20089
+  },
+  "KE": {
+    "iso": "KE",
+    "name_en": "Kenya",
+    "centroid": {
+      "lat": 0.55,
+      "lng": 37.82
+    },
+    "bbox": [
+      33.89,
+      -4.68,
+      41.89,
+      5.03
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 20174
+  },
+  "KG": {
+    "iso": "KG",
+    "name_en": "Kyrgyzstan",
+    "centroid": {
+      "lat": 41.47,
+      "lng": 74.51
+    },
+    "bbox": [
+      69.23,
+      39.19,
+      80.26,
+      43.26
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 24176
+  },
+  "KH": {
+    "iso": "KH",
+    "name_en": "Cambodia",
+    "centroid": {
+      "lat": 12.72,
+      "lng": 104.9
+    },
+    "bbox": [
+      102.31,
+      10.42,
+      107.61,
+      14.7
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 26106
+  },
+  "KI": {
+    "iso": "KI",
+    "name_en": "Kiribati",
+    "centroid": {
+      "lat": 1.85,
+      "lng": -157.37
+    },
+    "bbox": [
+      -157.58,
+      1.71,
+      -157.17,
+      2.03
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 10949
+  },
+  "KM": {
+    "iso": "KM",
+    "name_en": "Comoros",
+    "centroid": {
+      "lat": -11.66,
+      "lng": 43.34
+    },
+    "bbox": [
+      43.21,
+      -11.93,
+      43.5,
+      -11.36
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 20369
+  },
+  "KN": {
+    "iso": "KN",
+    "name_en": "Saint Kitts and Nevis",
+    "centroid": {
+      "lat": 17.33,
+      "lng": -62.76
+    },
+    "bbox": [
+      -62.86,
+      17.22,
+      -62.62,
+      17.42
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 17259
+  },
+  "KP": {
+    "iso": "KP",
+    "name_en": "North Korea",
+    "centroid": {
+      "lat": 40.14,
+      "lng": 127.15
+    },
+    "bbox": [
+      124.32,
+      37.68,
+      130.7,
+      43.01
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 22569
+  },
+  "KR": {
+    "iso": "KR",
+    "name_en": "South Korea",
+    "centroid": {
+      "lat": 36.45,
+      "lng": 127.86
+    },
+    "bbox": [
+      126.13,
+      34.29,
+      129.59,
+      38.62
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 26104
+  },
+  "KW": {
+    "iso": "KW",
+    "name_en": "Kuwait",
+    "centroid": {
+      "lat": 29.32,
+      "lng": 47.57
+    },
+    "bbox": [
+      46.53,
+      28.53,
+      48.43,
+      30.1
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 19117
+  },
+  "KY": {
+    "iso": "KY",
+    "name_en": "Cayman Islands",
+    "centroid": {
+      "lat": 19.32,
+      "lng": -81.25
+    },
+    "bbox": [
+      -81.42,
+      19.26,
+      -81.09,
+      19.39
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 20859
+  },
+  "KZ": {
+    "iso": "KZ",
+    "name_en": "Kazakhstan",
+    "centroid": {
+      "lat": 48.37,
+      "lng": 67.25
+    },
+    "bbox": [
+      46.48,
+      40.58,
+      87.32,
+      55.43
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 25919
+  },
+  "LA": {
+    "iso": "LA",
+    "name_en": "Laos",
+    "centroid": {
+      "lat": 18.49,
+      "lng": 103.78
+    },
+    "bbox": [
+      100.1,
+      13.92,
+      107.66,
+      22.5
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 28671
+  },
+  "LB": {
+    "iso": "LB",
+    "name_en": "Lebanon",
+    "centroid": {
+      "lat": 33.92,
+      "lng": 35.88
+    },
+    "bbox": [
+      35.1,
+      33.06,
+      36.6,
+      34.69
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 17259
+  },
+  "LC": {
+    "iso": "LC",
+    "name_en": "Saint Lucia",
+    "centroid": {
+      "lat": 13.9,
+      "lng": -60.97
+    },
+    "bbox": [
+      -61.08,
+      13.71,
+      -60.88,
+      14.11
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 17666
+  },
+  "LI": {
+    "iso": "LI",
+    "name_en": "Liechtenstein",
+    "centroid": {
+      "lat": 47.14,
+      "lng": 9.54
+    },
+    "bbox": [
+      9.48,
+      47.05,
+      9.62,
+      47.26
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 30963
+  },
+  "LK": {
+    "iso": "LK",
+    "name_en": "Sri Lanka",
+    "centroid": {
+      "lat": 7.61,
+      "lng": 80.71
+    },
+    "bbox": [
+      79.7,
+      5.92,
+      81.89,
+      9.83
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 17480
+  },
+  "LR": {
+    "iso": "LR",
+    "name_en": "Liberia",
+    "centroid": {
+      "lat": 6.45,
+      "lng": -9.32
+    },
+    "bbox": [
+      -11.48,
+      4.35,
+      -7.38,
+      8.57
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 19107
+  },
+  "LS": {
+    "iso": "LS",
+    "name_en": "Lesotho",
+    "centroid": {
+      "lat": -29.58,
+      "lng": 28.23
+    },
+    "bbox": [
+      27,
+      -30.66,
+      29.44,
+      -28.57
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 14975
+  },
+  "LT": {
+    "iso": "LT",
+    "name_en": "Lithuania",
+    "centroid": {
+      "lat": 55.32,
+      "lng": 23.9
+    },
+    "bbox": [
+      21.04,
+      53.89,
+      26.8,
+      56.44
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 20644
+  },
+  "LU": {
+    "iso": "LU",
+    "name_en": "Luxembourg",
+    "centroid": {
+      "lat": 49.77,
+      "lng": 6.07
+    },
+    "bbox": [
+      5.71,
+      49.44,
+      6.5,
+      50.17
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 19703
+  },
+  "LV": {
+    "iso": "LV",
+    "name_en": "Latvia",
+    "centroid": {
+      "lat": 56.86,
+      "lng": 24.92
+    },
+    "bbox": [
+      20.97,
+      55.67,
+      28.22,
+      58.08
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 23355
+  },
+  "LY": {
+    "iso": "LY",
+    "name_en": "Libya",
+    "centroid": {
+      "lat": 27.02,
+      "lng": 18.07
+    },
+    "bbox": [
+      9.29,
+      19.5,
+      25.16,
+      33.18
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 18884
+  },
+  "MA": {
+    "iso": "MA",
+    "name_en": "Morocco",
+    "centroid": {
+      "lat": 29.77,
+      "lng": -8.66
+    },
+    "bbox": [
+      -17.01,
+      21.42,
+      -1.03,
+      35.93
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 22359
+  },
+  "MC": {
+    "iso": "MC",
+    "name_en": "Monaco",
+    "centroid": {
+      "lat": 43.74,
+      "lng": 7.4
+    },
+    "bbox": [
+      7.37,
+      43.72,
+      7.44,
+      43.76
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 25882
+  },
+  "MD": {
+    "iso": "MD",
+    "name_en": "Moldova",
+    "centroid": {
+      "lat": 47.19,
+      "lng": 28.47
+    },
+    "bbox": [
+      26.62,
+      45.46,
+      30.13,
+      48.49
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 23435
+  },
+  "ME": {
+    "iso": "ME",
+    "name_en": "Montenegro",
+    "centroid": {
+      "lat": 42.78,
+      "lng": 19.24
+    },
+    "bbox": [
+      18.43,
+      41.85,
+      20.36,
+      43.55
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 23791
+  },
+  "MF": {
+    "iso": "MF",
+    "name_en": "Saint Martin",
+    "centroid": {
+      "lat": 18.08,
+      "lng": -63.06
+    },
+    "bbox": [
+      -63.15,
+      18.03,
+      -63.01,
+      18.12
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 18075
+  },
+  "MG": {
+    "iso": "MG",
+    "name_en": "Madagascar",
+    "centroid": {
+      "lat": -19.32,
+      "lng": 46.74
+    },
+    "bbox": [
+      43.22,
+      -25.6,
+      50.5,
+      -11.94
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 20050
+  },
+  "MH": {
+    "iso": "MH",
+    "name_en": "Marshall Islands",
+    "centroid": {
+      "lat": 7.1,
+      "lng": 171.21
+    },
+    "bbox": [
+      171.04,
+      7.07,
+      171.39,
+      7.17
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 12008
+  },
+  "MK": {
+    "iso": "MK",
+    "name_en": "North Macedonia",
+    "centroid": {
+      "lat": 41.59,
+      "lng": 21.68
+    },
+    "bbox": [
+      20.44,
+      40.85,
+      23.01,
+      42.37
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 19271
+  },
+  "ML": {
+    "iso": "ML",
+    "name_en": "Mali",
+    "centroid": {
+      "lat": 17.31,
+      "lng": -3.59
+    },
+    "bbox": [
+      -12.26,
+      10.14,
+      4.24,
+      25
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 24933
+  },
+  "MM": {
+    "iso": "MM",
+    "name_en": "Myanmar",
+    "centroid": {
+      "lat": 21.14,
+      "lng": 96.49
+    },
+    "bbox": [
+      92.17,
+      9.99,
+      101.17,
+      28.54
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 32052
+  },
+  "MN": {
+    "iso": "MN",
+    "name_en": "Mongolia",
+    "centroid": {
+      "lat": 46.96,
+      "lng": 103.13
+    },
+    "bbox": [
+      87.74,
+      41.59,
+      119.91,
+      52.13
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 20674
+  },
+  "MO": {
+    "iso": "MO",
+    "name_en": "Macau",
+    "centroid": {
+      "lat": 22.14,
+      "lng": 113.56
+    },
+    "bbox": [
+      113.53,
+      22.11,
+      113.59,
+      22.17
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 23064
+  },
+  "MP": {
+    "iso": "MP",
+    "name_en": "Northern Mariana Islands",
+    "centroid": {
+      "lat": 15.18,
+      "lng": 145.74
+    },
+    "bbox": [
+      145.68,
+      15.1,
+      145.82,
+      15.27
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 12530
+  },
+  "MQ": {
+    "iso": "MQ",
+    "name_en": "Martinique",
+    "centroid": {
+      "lat": 14.66,
+      "lng": -61.02
+    },
+    "bbox": [
+      -61.23,
+      14.41,
+      -60.81,
+      14.88
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 16184
+  },
+  "MR": {
+    "iso": "MR",
+    "name_en": "Mauritania",
+    "centroid": {
+      "lat": 20.22,
+      "lng": -10.36
+    },
+    "bbox": [
+      -17.08,
+      14.73,
+      -4.82,
+      27.29
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 23665
+  },
+  "MS": {
+    "iso": "MS",
+    "name_en": "Montserrat",
+    "centroid": {
+      "lat": 16.74,
+      "lng": -62.19
+    },
+    "bbox": [
+      -62.23,
+      16.68,
+      -62.14,
+      16.82
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 17087
+  },
+  "MT": {
+    "iso": "MT",
+    "name_en": "Malta",
+    "centroid": {
+      "lat": 35.89,
+      "lng": 14.44
+    },
+    "bbox": [
+      14.32,
+      35.8,
+      14.57,
+      35.99
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 21839
+  },
+  "MU": {
+    "iso": "MU",
+    "name_en": "Mauritius",
+    "centroid": {
+      "lat": -20.28,
+      "lng": 57.57
+    },
+    "bbox": [
+      57.3,
+      -20.52,
+      57.8,
+      -19.98
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 14927
+  },
+  "MV": {
+    "iso": "MV",
+    "name_en": "Maldives",
+    "centroid": {
+      "lat": 4.19,
+      "lng": 73.51
+    },
+    "bbox": [
+      73.43,
+      4.16,
+      73.55,
+      4.24
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 18891
+  },
+  "MW": {
+    "iso": "MW",
+    "name_en": "Malawi",
+    "centroid": {
+      "lat": -13.21,
+      "lng": 34.28
+    },
+    "bbox": [
+      32.66,
+      -17.14,
+      35.9,
+      -9.38
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 21962
+  },
+  "MX": {
+    "iso": "MX",
+    "name_en": "Mexico",
+    "centroid": {
+      "lat": 23.92,
+      "lng": -102.16
+    },
+    "bbox": [
+      -117.13,
+      14.55,
+      -86.74,
+      32.71
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 22535
+  },
+  "MY": {
+    "iso": "MY",
+    "name_en": "Malaysia",
+    "centroid": {
+      "lat": 3.61,
+      "lng": 114.71
+    },
+    "bbox": [
+      109.53,
+      0.85,
+      119.28,
+      7.03
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 21705
+  },
+  "MZ": {
+    "iso": "MZ",
+    "name_en": "Mozambique",
+    "centroid": {
+      "lat": -17.19,
+      "lng": 35.61
+    },
+    "bbox": [
+      30.21,
+      -26.86,
+      40.85,
+      -10.47
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 25186
+  },
+  "NA": {
+    "iso": "NA",
+    "name_en": "Namibia",
+    "centroid": {
+      "lat": -22.07,
+      "lng": 17.2
+    },
+    "bbox": [
+      11.72,
+      -28.96,
+      25.26,
+      -16.95
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 17276
+  },
+  "NC": {
+    "iso": "NC",
+    "name_en": "New Caledonia",
+    "centroid": {
+      "lat": -21.33,
+      "lng": 165.48
+    },
+    "bbox": [
+      163.99,
+      -22.4,
+      167.03,
+      -20.08
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 15404
+  },
+  "NE": {
+    "iso": "NE",
+    "name_en": "Niger",
+    "centroid": {
+      "lat": 17.41,
+      "lng": 9.33
+    },
+    "bbox": [
+      0.15,
+      11.7,
+      15.97,
+      23.52
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 21497
+  },
+  "NF": {
+    "iso": "NF",
+    "name_en": "Norfolk Island",
+    "centroid": {
+      "lat": -29.03,
+      "lng": 167.96
+    },
+    "bbox": [
+      167.91,
+      -29.08,
+      168,
+      -29
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 10298
+  },
+  "NG": {
+    "iso": "NG",
+    "name_en": "Nigeria",
+    "centroid": {
+      "lat": 9.59,
+      "lng": 8.08
+    },
+    "bbox": [
+      2.67,
+      4.27,
+      14.67,
+      13.88
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 23934
+  },
+  "NI": {
+    "iso": "NI",
+    "name_en": "Nicaragua",
+    "centroid": {
+      "lat": 12.84,
+      "lng": -85.04
+    },
+    "bbox": [
+      -87.69,
+      10.71,
+      -83.13,
+      15.03
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 18458
+  },
+  "NL": {
+    "iso": "NL",
+    "name_en": "Netherlands",
+    "centroid": {
+      "lat": 52.28,
+      "lng": 5.63
+    },
+    "bbox": [
+      3.45,
+      50.75,
+      7.2,
+      53.46
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 20423
+  },
+  "NO": {
+    "iso": "NO",
+    "name_en": "Norway",
+    "centroid": {
+      "lat": 63.78,
+      "lng": 12.25
+    },
+    "bbox": [
+      4.93,
+      57.99,
+      31.08,
+      71.13
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 38018
+  },
+  "NP": {
+    "iso": "NP",
+    "name_en": "Nepal",
+    "centroid": {
+      "lat": 28.26,
+      "lng": 83.95
+    },
+    "bbox": [
+      80.03,
+      26.34,
+      88.17,
+      30.42
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 22757
+  },
+  "NR": {
+    "iso": "NR",
+    "name_en": "Nauru",
+    "centroid": {
+      "lat": -0.52,
+      "lng": 166.93
+    },
+    "bbox": [
+      166.91,
+      -0.55,
+      166.96,
+      -0.49
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 11078
+  },
+  "NU": {
+    "iso": "NU",
+    "name_en": "Niue",
+    "centroid": {
+      "lat": -19.05,
+      "lng": -169.87
+    },
+    "bbox": [
+      -169.95,
+      -19.14,
+      -169.78,
+      -18.96
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 10069
+  },
+  "NZ": {
+    "iso": "NZ",
+    "name_en": "New Zealand",
+    "centroid": {
+      "lat": -43.96,
+      "lng": 170.6
+    },
+    "bbox": [
+      166.47,
+      -46.68,
+      174.33,
+      -40.5
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 13359
+  },
+  "OM": {
+    "iso": "OM",
+    "name_en": "Oman",
+    "centroid": {
+      "lat": 20.55,
+      "lng": 56.06
+    },
+    "bbox": [
+      51.98,
+      16.64,
+      59.84,
+      24.98
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 20326
+  },
+  "PA": {
+    "iso": "PA",
+    "name_en": "Panama",
+    "centroid": {
+      "lat": 8.53,
+      "lng": -80.11
+    },
+    "bbox": [
+      -83.05,
+      7.21,
+      -77.16,
+      9.63
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 22708
+  },
+  "PE": {
+    "iso": "PE",
+    "name_en": "Peru",
+    "centroid": {
+      "lat": -9.11,
+      "lng": -74.42
+    },
+    "bbox": [
+      -81.34,
+      -18.34,
+      -68.68,
+      -0.03
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 18173
+  },
+  "PF": {
+    "iso": "PF",
+    "name_en": "French Polynesia",
+    "centroid": {
+      "lat": -17.66,
+      "lng": -149.42
+    },
+    "bbox": [
+      -149.64,
+      -17.87,
+      -149.15,
+      -17.49
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 12679
+  },
+  "PG": {
+    "iso": "PG",
+    "name_en": "Papua New Guinea",
+    "centroid": {
+      "lat": -6.61,
+      "lng": 144.24
+    },
+    "bbox": [
+      140.85,
+      -10.7,
+      150.87,
+      -2.59
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 25119
+  },
+  "PH": {
+    "iso": "PH",
+    "name_en": "Philippines",
+    "centroid": {
+      "lat": 15.94,
+      "lng": 121.42
+    },
+    "bbox": [
+      119.76,
+      12.54,
+      124.19,
+      18.65
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 23308
+  },
+  "PK": {
+    "iso": "PK",
+    "name_en": "Pakistan",
+    "centroid": {
+      "lat": 29.88,
+      "lng": 69.17
+    },
+    "bbox": [
+      60.84,
+      23.69,
+      77.05,
+      37.05
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 25193
+  },
+  "PL": {
+    "iso": "PL",
+    "name_en": "Poland",
+    "centroid": {
+      "lat": 52.11,
+      "lng": 19.42
+    },
+    "bbox": [
+      14.12,
+      48.99,
+      24.14,
+      54.84
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 25456
+  },
+  "PM": {
+    "iso": "PM",
+    "name_en": "Saint Pierre and Miquelon",
+    "centroid": {
+      "lat": 46.95,
+      "lng": -56.32
+    },
+    "bbox": [
+      -56.4,
+      46.78,
+      -56.24,
+      47.14
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 26571
+  },
+  "PN": {
+    "iso": "PN",
+    "name_en": "Pitcairn Islands",
+    "centroid": {
+      "lat": -24.37,
+      "lng": -128.32
+    },
+    "bbox": [
+      -128.35,
+      -24.41,
+      -128.29,
+      -24.32
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 11449
+  },
+  "PR": {
+    "iso": "PR",
+    "name_en": "Puerto Rico",
+    "centroid": {
+      "lat": 18.23,
+      "lng": -66.48
+    },
+    "bbox": [
+      -67.27,
+      17.92,
+      -65.59,
+      18.52
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 14071
+  },
+  "PS": {
+    "iso": "PS",
+    "name_en": "Palestine",
+    "centroid": {
+      "lat": 31.95,
+      "lng": 35.25
+    },
+    "bbox": [
+      34.87,
+      31.34,
+      35.57,
+      32.54
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 20040
+  },
+  "PT": {
+    "iso": "PT",
+    "name_en": "Portugal",
+    "centroid": {
+      "lat": 39.65,
+      "lng": -7.98
+    },
+    "bbox": [
+      -9.5,
+      36.99,
+      -6.21,
+      42.15
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 18901
+  },
+  "PW": {
+    "iso": "PW",
+    "name_en": "Palau",
+    "centroid": {
+      "lat": 7.51,
+      "lng": 134.58
+    },
+    "bbox": [
+      134.48,
+      7.36,
+      134.66,
+      7.73
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 13092
+  },
+  "PY": {
+    "iso": "PY",
+    "name_en": "Paraguay",
+    "centroid": {
+      "lat": -23.21,
+      "lng": -58.44
+    },
+    "bbox": [
+      -62.65,
+      -27.59,
+      -54.25,
+      -19.29
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 17018
+  },
+  "QA": {
+    "iso": "QA",
+    "name_en": "Qatar",
+    "centroid": {
+      "lat": 25.31,
+      "lng": 51.19
+    },
+    "bbox": [
+      50.75,
+      24.56,
+      51.62,
+      26.16
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 21772
+  },
+  "RE": {
+    "iso": "RE",
+    "name_en": "Réunion",
+    "centroid": {
+      "lat": -21.12,
+      "lng": 55.54
+    },
+    "bbox": [
+      55.23,
+      -21.37,
+      55.85,
+      -20.86
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 15052
+  },
+  "RO": {
+    "iso": "RO",
+    "name_en": "Romania",
+    "centroid": {
+      "lat": 45.85,
+      "lng": 24.98
+    },
+    "bbox": [
+      20.24,
+      43.65,
+      29.7,
+      48.27
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 24865
+  },
+  "RS": {
+    "iso": "RS",
+    "name_en": "Serbia",
+    "centroid": {
+      "lat": 44.21,
+      "lng": 20.81
+    },
+    "bbox": [
+      18.84,
+      42.23,
+      22.98,
+      46.17
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 27312
+  },
+  "RU": {
+    "iso": "RU",
+    "name_en": "Russia",
+    "centroid": {
+      "lat": 65.74,
+      "lng": 95.15
+    },
+    "bbox": [
+      27.33,
+      41.19,
+      180,
+      77.74
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 37018
+  },
+  "RW": {
+    "iso": "RW",
+    "name_en": "Rwanda",
+    "centroid": {
+      "lat": -1.99,
+      "lng": 29.92
+    },
+    "bbox": [
+      28.86,
+      -2.83,
+      30.89,
+      -1.06
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 18521
+  },
+  "SA": {
+    "iso": "SA",
+    "name_en": "Saudi Arabia",
+    "centroid": {
+      "lat": 24.09,
+      "lng": 44.67
+    },
+    "bbox": [
+      34.57,
+      16.37,
+      55.64,
+      32.12
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 29933
+  },
+  "SB": {
+    "iso": "SB",
+    "name_en": "Solomon Islands",
+    "centroid": {
+      "lat": -9.62,
+      "lng": 160.17
+    },
+    "bbox": [
+      159.59,
+      -9.94,
+      160.83,
+      -9.25
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 11748
+  },
+  "SC": {
+    "iso": "SC",
+    "name_en": "Seychelles",
+    "centroid": {
+      "lat": -4.68,
+      "lng": 55.47
+    },
+    "bbox": [
+      55.37,
+      -4.8,
+      55.54,
+      -4.56
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 15528
+  },
+  "SD": {
+    "iso": "SD",
+    "name_en": "Sudan",
+    "centroid": {
+      "lat": 15.96,
+      "lng": 29.9
+    },
+    "bbox": [
+      21.81,
+      8.68,
+      38.6,
+      22.23
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 23589
+  },
+  "SE": {
+    "iso": "SE",
+    "name_en": "Sweden",
+    "centroid": {
+      "lat": 62.44,
+      "lng": 16.26
+    },
+    "bbox": [
+      11.11,
+      55.34,
+      24.16,
+      69.04
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 40775
+  },
+  "SG": {
+    "iso": "SG",
+    "name_en": "Singapore",
+    "centroid": {
+      "lat": 1.36,
+      "lng": 103.81
+    },
+    "bbox": [
+      103.64,
+      1.26,
+      104,
+      1.45
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 26261
+  },
+  "SH": {
+    "iso": "SH",
+    "name_en": "Saint Helena",
+    "centroid": {
+      "lat": -15.96,
+      "lng": -5.72
+    },
+    "bbox": [
+      -5.79,
+      -16.02,
+      -5.65,
+      -15.9
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 14961
+  },
+  "SI": {
+    "iso": "SI",
+    "name_en": "Slovenia",
+    "centroid": {
+      "lat": 46.12,
+      "lng": 14.8
+    },
+    "bbox": [
+      13.37,
+      45.42,
+      16.52,
+      46.86
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 23577
+  },
+  "SJ": {
+    "iso": "SJ",
+    "name_en": "Svalbard",
+    "centroid": {
+      "lat": 78.56,
+      "lng": 15.96
+    },
+    "bbox": [
+      10.68,
+      76.57,
+      21.55,
+      80.07
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 25420
+  },
+  "SK": {
+    "iso": "SK",
+    "name_en": "Slovakia",
+    "centroid": {
+      "lat": 48.71,
+      "lng": 19.47
+    },
+    "bbox": [
+      16.84,
+      47.75,
+      22.54,
+      49.6
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 22309
+  },
+  "SL": {
+    "iso": "SL",
+    "name_en": "Sierra Leone",
+    "centroid": {
+      "lat": 8.57,
+      "lng": -11.79
+    },
+    "bbox": [
+      -13.3,
+      6.92,
+      -10.28,
+      10
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 20806
+  },
+  "SM": {
+    "iso": "SM",
+    "name_en": "San Marino",
+    "centroid": {
+      "lat": 43.94,
+      "lng": 12.44
+    },
+    "bbox": [
+      12.39,
+      43.89,
+      12.49,
+      43.98
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 33626
+  },
+  "SN": {
+    "iso": "SN",
+    "name_en": "Senegal",
+    "centroid": {
+      "lat": 14.37,
+      "lng": -14.47
+    },
+    "bbox": [
+      -17.54,
+      12.31,
+      -11.38,
+      16.69
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 24573
+  },
+  "SO": {
+    "iso": "SO",
+    "name_en": "Somalia",
+    "centroid": {
+      "lat": 4.74,
+      "lng": 45.68
+    },
+    "bbox": [
+      40.97,
+      -1.7,
+      51.42,
+      11.99
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 21684
+  },
+  "SR": {
+    "iso": "SR",
+    "name_en": "Suriname",
+    "centroid": {
+      "lat": 4.13,
+      "lng": -55.91
+    },
+    "bbox": [
+      -58.07,
+      1.83,
+      -53.99,
+      6.01
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 19718
+  },
+  "SS": {
+    "iso": "SS",
+    "name_en": "South Sudan",
+    "centroid": {
+      "lat": 7.28,
+      "lng": 30.3
+    },
+    "bbox": [
+      24.12,
+      3.49,
+      35.92,
+      12.22
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 22447
+  },
+  "ST": {
+    "iso": "ST",
+    "name_en": "São Tomé and Príncipe",
+    "centroid": {
+      "lat": 0.24,
+      "lng": 6.61
+    },
+    "bbox": [
+      6.46,
+      0.02,
+      6.76,
+      0.41
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 19743
+  },
+  "SV": {
+    "iso": "SV",
+    "name_en": "El Salvador",
+    "centroid": {
+      "lat": 13.74,
+      "lng": -88.87
+    },
+    "bbox": [
+      -90.11,
+      13.16,
+      -87.7,
+      14.45
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 17000
+  },
+  "SX": {
+    "iso": "SX",
+    "name_en": "Sint Maarten",
+    "centroid": {
+      "lat": 18.04,
+      "lng": -63.07
+    },
+    "bbox": [
+      -63.12,
+      18.02,
+      -63.02,
+      18.06
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 18067
+  },
+  "SY": {
+    "iso": "SY",
+    "name_en": "Syria",
+    "centroid": {
+      "lat": 35.02,
+      "lng": 38.48
+    },
+    "bbox": [
+      35.72,
+      32.31,
+      42.38,
+      37.32
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 23760
+  },
+  "SZ": {
+    "iso": "SZ",
+    "name_en": "Eswatini",
+    "centroid": {
+      "lat": -26.56,
+      "lng": 31.48
+    },
+    "bbox": [
+      30.78,
+      -27.32,
+      32.12,
+      -25.74
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 16191
+  },
+  "TC": {
+    "iso": "TC",
+    "name_en": "Turks and Caicos Islands",
+    "centroid": {
+      "lat": 21.81,
+      "lng": -71.74
+    },
+    "bbox": [
+      -71.85,
+      21.74,
+      -71.63,
+      21.86
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 23830
+  },
+  "TD": {
+    "iso": "TD",
+    "name_en": "Chad",
+    "centroid": {
+      "lat": 15.27,
+      "lng": 18.64
+    },
+    "bbox": [
+      13.45,
+      7.46,
+      23.98,
+      23.44
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 25042
+  },
+  "TF": {
+    "iso": "TF",
+    "name_en": "French Southern and Antarctic Lands",
+    "centroid": {
+      "lat": -49.31,
+      "lng": 69.5
+    },
+    "bbox": [
+      68.75,
+      -49.72,
+      70.57,
+      -48.65
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 22344
+  },
+  "TG": {
+    "iso": "TG",
+    "name_en": "Togo",
+    "centroid": {
+      "lat": 8.52,
+      "lng": 0.96
+    },
+    "bbox": [
+      -0.17,
+      6.1,
+      1.78,
+      11.13
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 21535
+  },
+  "TH": {
+    "iso": "TH",
+    "name_en": "Thailand",
+    "centroid": {
+      "lat": 15.1,
+      "lng": 101.01
+    },
+    "bbox": [
+      97.35,
+      5.63,
+      105.65,
+      20.45
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 33171
+  },
+  "TJ": {
+    "iso": "TJ",
+    "name_en": "Tajikistan",
+    "centroid": {
+      "lat": 38.53,
+      "lng": 71.03
+    },
+    "bbox": [
+      67.34,
+      36.68,
+      75.16,
+      41.04
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 26453
+  },
+  "TK": {
+    "iso": "TK",
+    "name_en": "Tokelau",
+    "centroid": {
+      "lat": -9.35,
+      "lng": -171.19
+    },
+    "bbox": [
+      -171.21,
+      -9.36,
+      -171.19,
+      -9.33
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 10147
+  },
+  "TL": {
+    "iso": "TL",
+    "name_en": "East Timor",
+    "centroid": {
+      "lat": -8.8,
+      "lng": 125.94
+    },
+    "bbox": [
+      124.91,
+      -9.49,
+      127.31,
+      -8.31
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 14487
+  },
+  "TM": {
+    "iso": "TM",
+    "name_en": "Turkmenistan",
+    "centroid": {
+      "lat": 39.13,
+      "lng": 59.45
+    },
+    "bbox": [
+      52.44,
+      35.14,
+      66.65,
+      42.79
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 24406
+  },
+  "TN": {
+    "iso": "TN",
+    "name_en": "Tunisia",
+    "centroid": {
+      "lat": 34.09,
+      "lng": 9.55
+    },
+    "bbox": [
+      7.48,
+      30.23,
+      11.56,
+      37.35
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 20206
+  },
+  "TO": {
+    "iso": "TO",
+    "name_en": "Tonga",
+    "centroid": {
+      "lat": -21.17,
+      "lng": -175.2
+    },
+    "bbox": [
+      -175.36,
+      -21.27,
+      -175.05,
+      -21.06
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 11111
+  },
+  "TR": {
+    "iso": "TR",
+    "name_en": "Turkey",
+    "centroid": {
+      "lat": 39.06,
+      "lng": 35.41
+    },
+    "bbox": [
+      26.07,
+      35.82,
+      44.81,
+      42.1
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 33242
+  },
+  "TT": {
+    "iso": "TT",
+    "name_en": "Trinidad and Tobago",
+    "centroid": {
+      "lat": 10.42,
+      "lng": -61.29
+    },
+    "bbox": [
+      -61.93,
+      10.04,
+      -60.91,
+      10.85
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 15312
+  },
+  "TV": {
+    "iso": "TV",
+    "name_en": "Tuvalu",
+    "centroid": {
+      "lat": -8.5,
+      "lng": 179.21
+    },
+    "bbox": [
+      179.19,
+      -8.54,
+      179.22,
+      -8.46
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 10672
+  },
+  "TW": {
+    "iso": "TW",
+    "name_en": "Taiwan",
+    "centroid": {
+      "lat": 23.75,
+      "lng": 120.96
+    },
+    "bbox": [
+      120.05,
+      21.9,
+      122.01,
+      25.29
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 19247
+  },
+  "TZ": {
+    "iso": "TZ",
+    "name_en": "Tanzania",
+    "centroid": {
+      "lat": -6.27,
+      "lng": 34.79
+    },
+    "bbox": [
+      29.32,
+      -11.73,
+      40.45,
+      -0.99
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 21471
+  },
+  "UA": {
+    "iso": "UA",
+    "name_en": "Ukraine",
+    "centroid": {
+      "lat": 49.2,
+      "lng": 31.32
+    },
+    "bbox": [
+      22.13,
+      45.21,
+      40.16,
+      52.37
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 27940
+  },
+  "UG": {
+    "iso": "UG",
+    "name_en": "Uganda",
+    "centroid": {
+      "lat": 1.28,
+      "lng": 32.37
+    },
+    "bbox": [
+      29.55,
+      -1.48,
+      35.01,
+      4.22
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 19697
+  },
+  "UM": {
+    "iso": "UM",
+    "name_en": "United States Minor Outlying Islands",
+    "centroid": {
+      "lat": 5.88,
+      "lng": -162.08
+    },
+    "bbox": [
+      -162.1,
+      5.87,
+      -162.06,
+      5.89
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 9982
+  },
+  "US": {
+    "iso": "US",
+    "name_en": "United States of America",
+    "centroid": {
+      "lat": 39.89,
+      "lng": -98.82
+    },
+    "bbox": [
+      -124.73,
+      25.12,
+      -66.98,
+      49.37
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 27740
+  },
+  "UY": {
+    "iso": "UY",
+    "name_en": "Uruguay",
+    "centroid": {
+      "lat": -32.79,
+      "lng": -56.02
+    },
+    "bbox": [
+      -58.44,
+      -34.97,
+      -53.11,
+      -30.1
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 17213
+  },
+  "UZ": {
+    "iso": "UZ",
+    "name_en": "Uzbekistan",
+    "centroid": {
+      "lat": 41.78,
+      "lng": 63.29
+    },
+    "bbox": [
+      55.98,
+      37.19,
+      73.15,
+      45.56
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 26909
+  },
+  "VA": {
+    "iso": "VA",
+    "name_en": "Vatican City",
+    "centroid": {
+      "lat": 41.9,
+      "lng": 12.45
+    },
+    "bbox": [
+      12.45,
+      41.9,
+      12.45,
+      41.9
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 29823
+  },
+  "VC": {
+    "iso": "VC",
+    "name_en": "Saint Vincent and the Grenadines",
+    "centroid": {
+      "lat": 13.26,
+      "lng": -61.19
+    },
+    "bbox": [
+      -61.28,
+      13.13,
+      -61.12,
+      13.38
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 17591
+  },
+  "VE": {
+    "iso": "VE",
+    "name_en": "Venezuela",
+    "centroid": {
+      "lat": 7.12,
+      "lng": -66.17
+    },
+    "bbox": [
+      -73.39,
+      0.65,
+      -59.82,
+      12.2
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 24039
+  },
+  "VG": {
+    "iso": "VG",
+    "name_en": "British Virgin Islands",
+    "centroid": {
+      "lat": 18.42,
+      "lng": -64.62
+    },
+    "bbox": [
+      -64.71,
+      18.38,
+      -64.52,
+      18.45
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 18412
+  },
+  "VI": {
+    "iso": "VI",
+    "name_en": "United States Virgin Islands",
+    "centroid": {
+      "lat": 17.74,
+      "lng": -64.76
+    },
+    "bbox": [
+      -64.9,
+      17.68,
+      -64.56,
+      17.79
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 18076
+  },
+  "VN": {
+    "iso": "VN",
+    "name_en": "Vietnam",
+    "centroid": {
+      "lat": 16.56,
+      "lng": 106.35
+    },
+    "bbox": [
+      102.12,
+      8.57,
+      109.47,
+      23.37
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 33526
+  },
+  "VU": {
+    "iso": "VU",
+    "name_en": "Vanuatu",
+    "centroid": {
+      "lat": -15.23,
+      "lng": 166.85
+    },
+    "bbox": [
+      166.52,
+      -15.66,
+      167.25,
+      -14.63
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 11490
+  },
+  "WF": {
+    "iso": "WF",
+    "name_en": "Wallis and Futuna",
+    "centroid": {
+      "lat": -13.28,
+      "lng": -176.16
+    },
+    "bbox": [
+      -176.2,
+      -13.35,
+      -176.13,
+      -13.21
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 11219
+  },
+  "WS": {
+    "iso": "WS",
+    "name_en": "Samoa",
+    "centroid": {
+      "lat": -13.63,
+      "lng": -172.44
+    },
+    "bbox": [
+      -172.78,
+      -13.81,
+      -172.18,
+      -13.46
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 10853
+  },
+  "YE": {
+    "iso": "YE",
+    "name_en": "Yemen",
+    "centroid": {
+      "lat": 15.94,
+      "lng": 47.52
+    },
+    "bbox": [
+      42.61,
+      12.6,
+      53.09,
+      19
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 19691
+  },
+  "YT": {
+    "iso": "YT",
+    "name_en": "Mayotte",
+    "centroid": {
+      "lat": -12.82,
+      "lng": 45.14
+    },
+    "bbox": [
+      45.04,
+      -12.99,
+      45.22,
+      -12.65
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 22676
+  },
+  "ZA": {
+    "iso": "ZA",
+    "name_en": "South Africa",
+    "centroid": {
+      "lat": -28.97,
+      "lng": 25.19
+    },
+    "bbox": [
+      16.47,
+      -34.82,
+      32.89,
+      -22.13
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 17141
+  },
+  "ZM": {
+    "iso": "ZM",
+    "name_en": "Zambia",
+    "centroid": {
+      "lat": -13.46,
+      "lng": 27.81
+    },
+    "bbox": [
+      21.98,
+      -18.07,
+      33.67,
+      -8.19
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 21842
+  },
+  "ZW": {
+    "iso": "ZW",
+    "name_en": "Zimbabwe",
+    "centroid": {
+      "lat": -19,
+      "lng": 29.85
+    },
+    "bbox": [
+      25.22,
+      -22.4,
+      33.04,
+      -15.61
+    ],
+    "globe_inset": "bottom-left",
+    "highlight_color": "#2dd4bf",
+    "canvas": [
+      1200,
+      800
+    ],
+    "projection": "natural-earth",
+    "generated": "2026-06-05",
+    "bytes": 20698
+  }
+}
