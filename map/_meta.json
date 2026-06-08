@@ -89,7 +89,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 16706
+    "bytes": 21410
   },
   "AI": {
     "iso": "AI",
@@ -112,7 +112,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 17049
+    "bytes": 20641
   },
   "AL": {
     "iso": "AL",
@@ -250,7 +250,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 12698
+    "bytes": 16305
   },
   "AT": {
     "iso": "AT",
@@ -319,7 +319,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 18627
+    "bytes": 22168
   },
   "AX": {
     "iso": "AX",
@@ -342,7 +342,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 33068
+    "bytes": 41631
   },
   "AZ": {
     "iso": "AZ",
@@ -411,7 +411,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 16450
+    "bytes": 20362
   },
   "BD": {
     "iso": "BD",
@@ -526,7 +526,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 23922
+    "bytes": 28865
   },
   "BI": {
     "iso": "BI",
@@ -595,7 +595,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 17501
+    "bytes": 20337
   },
   "BM": {
     "iso": "BM",
@@ -618,7 +618,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 19536
+    "bytes": 24316
   },
   "BN": {
     "iso": "BN",
@@ -687,7 +687,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 18157
+    "bytes": 24277
   },
   "BR": {
     "iso": "BR",
@@ -779,7 +779,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 15288
+    "bytes": 18383
   },
   "BW": {
     "iso": "BW",
@@ -894,7 +894,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 17444
+    "bytes": 18850
   },
   "CD": {
     "iso": "CD",
@@ -1032,7 +1032,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 13372
+    "bytes": 15818
   },
   "CL": {
     "iso": "CL",
@@ -1216,7 +1216,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 18240
+    "bytes": 24070
   },
   "CX": {
     "iso": "CX",
@@ -1239,7 +1239,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 16069
+    "bytes": 17163
   },
   "CY": {
     "iso": "CY",
@@ -1377,7 +1377,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 16098
+    "bytes": 21337
   },
   "DO": {
     "iso": "DO",
@@ -1676,7 +1676,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 15295
+    "bytes": 17619
   },
   "FO": {
     "iso": "FO",
@@ -1699,7 +1699,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 34100
+    "bytes": 38351
   },
   "FR": {
     "iso": "FR",
@@ -1791,7 +1791,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 19545
+    "bytes": 23060
   },
   "GE": {
     "iso": "GE",
@@ -1860,7 +1860,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 26456
+    "bytes": 30086
   },
   "GH": {
     "iso": "GH",
@@ -1998,7 +1998,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 17459
+    "bytes": 21362
   },
   "GQ": {
     "iso": "GQ",
@@ -2067,7 +2067,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 16086
+    "bytes": 19769
   },
   "GT": {
     "iso": "GT",
@@ -2113,7 +2113,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 12697
+    "bytes": 16276
   },
   "GW": {
     "iso": "GW",
@@ -2205,7 +2205,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 15643
+    "bytes": 18996
   },
   "HN": {
     "iso": "HN",
@@ -2389,7 +2389,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 32922
+    "bytes": 35535
   },
   "IN": {
     "iso": "IN",
@@ -2435,7 +2435,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 17532
+    "bytes": 20971
   },
   "IQ": {
     "iso": "IQ",
@@ -2550,7 +2550,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 26147
+    "bytes": 30411
   },
   "JM": {
     "iso": "JM",
@@ -2711,7 +2711,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 13035
+    "bytes": 16143
   },
   "KM": {
     "iso": "KM",
@@ -2734,7 +2734,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 22776
+    "bytes": 25620
   },
   "KN": {
     "iso": "KN",
@@ -2757,7 +2757,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 17020
+    "bytes": 21429
   },
   "KP": {
     "iso": "KP",
@@ -2849,7 +2849,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 25147
+    "bytes": 26687
   },
   "KZ": {
     "iso": "KZ",
@@ -2941,7 +2941,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 17270
+    "bytes": 21567
   },
   "LI": {
     "iso": "LI",
@@ -3240,7 +3240,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 16652
+    "bytes": 21113
   },
   "MG": {
     "iso": "MG",
@@ -3286,7 +3286,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 14384
+    "bytes": 16642
   },
   "MK": {
     "iso": "MK",
@@ -3424,7 +3424,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 12934
+    "bytes": 16121
   },
   "MQ": {
     "iso": "MQ",
@@ -3447,7 +3447,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 15929
+    "bytes": 22072
   },
   "MR": {
     "iso": "MR",
@@ -3493,7 +3493,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 15992
+    "bytes": 21248
   },
   "MT": {
     "iso": "MT",
@@ -3516,7 +3516,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 20182
+    "bytes": 28977
   },
   "MU": {
     "iso": "MU",
@@ -3539,7 +3539,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 15309
+    "bytes": 18414
   },
   "MV": {
     "iso": "MV",
@@ -3562,7 +3562,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 19337
+    "bytes": 21535
   },
   "MW": {
     "iso": "MW",
@@ -3746,7 +3746,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 13480
+    "bytes": 16235
   },
   "NG": {
     "iso": "NG",
@@ -3884,7 +3884,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 13187
+    "bytes": 16020
   },
   "NU": {
     "iso": "NU",
@@ -3907,7 +3907,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 15030
+    "bytes": 17924
   },
   "NZ": {
     "iso": "NZ",
@@ -4022,7 +4022,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 14704
+    "bytes": 17598
   },
   "PG": {
     "iso": "PG",
@@ -4137,7 +4137,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 25583
+    "bytes": 29671
   },
   "PN": {
     "iso": "PN",
@@ -4160,7 +4160,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 14023
+    "bytes": 17156
   },
   "PR": {
     "iso": "PR",
@@ -4252,7 +4252,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 26291
+    "bytes": 29180
   },
   "PY": {
     "iso": "PY",
@@ -4321,7 +4321,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 16151
+    "bytes": 18393
   },
   "RO": {
     "iso": "RO",
@@ -4482,7 +4482,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 20833
+    "bytes": 22407
   },
   "SD": {
     "iso": "SD",
@@ -4574,7 +4574,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 17280
+    "bytes": 19731
   },
   "SI": {
     "iso": "SI",
@@ -4804,7 +4804,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 20114
+    "bytes": 24548
   },
   "SV": {
     "iso": "SV",
@@ -4850,7 +4850,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 16722
+    "bytes": 21086
   },
   "SY": {
     "iso": "SY",
@@ -4919,7 +4919,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 24746
+    "bytes": 27482
   },
   "TD": {
     "iso": "TD",
@@ -4965,7 +4965,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 13312
+    "bytes": 17635
   },
   "TG": {
     "iso": "TG",
@@ -5057,7 +5057,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 13556
+    "bytes": 16640
   },
   "TL": {
     "iso": "TL",
@@ -5149,7 +5149,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 14000
+    "bytes": 17113
   },
   "TR": {
     "iso": "TR",
@@ -5218,7 +5218,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 13502
+    "bytes": 16417
   },
   "TW": {
     "iso": "TW",
@@ -5333,7 +5333,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 12972
+    "bytes": 15639
   },
   "US": {
     "iso": "US",
@@ -5448,7 +5448,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 16926
+    "bytes": 21414
   },
   "VE": {
     "iso": "VE",
@@ -5494,7 +5494,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 18099
+    "bytes": 23081
   },
   "VI": {
     "iso": "VI",
@@ -5517,7 +5517,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 18639
+    "bytes": 21640
   },
   "VN": {
     "iso": "VN",
@@ -5586,7 +5586,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 13564
+    "bytes": 17328
   },
   "WS": {
     "iso": "WS",
@@ -5609,7 +5609,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 12950
+    "bytes": 17134
   },
   "YE": {
     "iso": "YE",
@@ -5655,7 +5655,7 @@
     ],
     "projection": "natural-earth",
     "generated": "2026-06-05",
-    "bytes": 20640
+    "bytes": 24195
   },
   "ZA": {
     "iso": "ZA",
